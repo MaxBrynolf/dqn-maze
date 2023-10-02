@@ -11,7 +11,7 @@ An environment in which DQN can be used to train an agent to progress through a 
 ## Installation
 
 Requirements:
-1. Java IDE
+1. Java
 2. Python and Jupyter Lab/Jupyter Notebook
 3. [Py4J](https://github.com/py4j/py4j)
 
