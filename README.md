@@ -33,7 +33,7 @@ TrainingMode training = TrainingMode.NONE;
 
 Setting this to `TrainingMode.NONE` will allow you to try the environment manually, using the arrow keys to move around. Setting it to `TrainingMode.RL` sets the application in training mode.
 
-The world can be designed in the `Maze.startWindow` method. For example, to add a wall use `World.addWall(...)`-method.
+The world can be designed in the `Maze.startWindow` method. For example, to add a wall use the `World.addWall(...)`-method.
 
 #### Python
 
