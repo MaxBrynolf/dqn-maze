@@ -16,7 +16,7 @@ Requirements:
 3. [Py4J](https://github.com/py4j/py4j)
 
 Installation:
-1. Create a Java project from the "src" folder, containing all the Java-files. Alternatively, run build.sh to generate the .class files.
+1. Create a Java project from the "src" folder, containing all the Java-files. Alternatively, run "build.sh" to generate the .class files.
 3. Include Py4J in the project (see [repository](https://github.com/py4j/py4j) for details).
 3. Open the file "Deep Q-learning.ipynb" with Jupyter.
 
