@@ -2,7 +2,7 @@
 
 By Max Brynolf (max.brynolf@hotmail.com)
 
-Repository link: https://github.com/MaxBrynolf/DQNMaze
+Repository link: https://github.com/MaxBrynolf/dqn-maze
 
 ## Overview
 
